@@ -1,3 +1,3 @@
-OBS: Este código não pertence à mim.
+OBS: Este código não foi criado por mim.
 
-Link do código: https://gist.github.com/sother/2423662
+Link do criador do código: https://gist.github.com/sother/2423662
